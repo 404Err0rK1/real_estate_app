@@ -1,0 +1,33 @@
+{
+  "name": "easy-homes-yt",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "data:import": "tsx db/seeder.ts",
+    "data:destroy": "tsx db/seeder.ts -d"
+  },
+  "dependencies": {
+    "@ant-design/nextjs-registry": "^1.0.0",
+    "@prisma/client": "^5.18.0",
+    "antd": "^5.20.0",
+    "cloudinary": "^2.5.0",
+    "easy-homes-yt": "file:",
+    "next": "14.2.5",
+    "next-auth": "^4.24.7",
+    "react": "^18",
+    "react-dom": "^18"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "prisma": "^5.18.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5"
+  }
+}

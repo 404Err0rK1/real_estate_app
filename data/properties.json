@@ -1,0 +1,199 @@
+[
+    {
+      "type": "RENT",
+      "name": "Driftwood Villa",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facere fuga aspernatur delectus amet commodi, rerum error ipsam. Eum, dolorum provident. Rem consequatur iste obcaecati omnis, hic dolor, id aspernatur blanditiis quisquam provident velit officiis temporibus.",
+      "street": "123 Main St, Whitefield",
+      "city": "Bangalore",
+      "state": "KA",
+      "zipcode": "560066",
+      "price": 2500,
+      "bhk": "TWO_BHK",
+      "area": 900,
+      "parking": "YES",
+      "preferredTenants": "FAMILY",
+      "isFeatured": true,
+      "propertyType": "APARTMENT",
+      "availableFrom": "2024-07-01T00:00:00.000Z",
+      "isSold": false,
+      "owner": {
+        "username": "John Doe",
+        "email": "john@email.com"
+    },
+      "images": [
+        { "url": "https://res.cloudinary.com/doxf2jmbg/image/upload/v1721459962/easyHomes/property-1_cn7xgl.jpg" },
+        { "url": "https://res.cloudinary.com/doxf2jmbg/image/upload/v1721459961/easyHomes/property-6_s7ufnj.jpg" }
+      ]
+    },
+    {
+      "type": "SALE",
+      "name": "Luxury Villa",
+"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facere fuga aspernatur delectus amet commodi, rerum error ipsam. Eum, dolorum provident. Rem consequatur iste obcaecati omnis, hic dolor, id aspernatur blanditiis quisquam provident velit officiis temporibus.",
+      "street": "456 Ocean Dr, Indiranagar",
+      "city": "Bangalore",
+      "state": "KA",
+      "zipcode": "560038",
+      "price": 25000000,
+      "bhk": "FOUR_BHK",
+      "area": 5000,
+      "parking": "YES",
+      "preferredTenants": "FAMILY",
+      "isFeatured":true,
+      "propertyType": "INDEPENDENT",
+      "availableFrom": "2024-08-01T00:00:00.000Z",
+      "isSold": false,
+      "owner": {
+        "username": "Jane Smith",
+        "email": "jane@email.com"
+    },
+      "images": [
+        { "url": "https://res.cloudinary.com/doxf2jmbg/image/upload/v1721459962/easyHomes/property-7_iqviih.jpg" },{ "url": "https://res.cloudinary.com/doxf2jmbg/image/upload/v1721459962/easyHomes/property-8_ua7e8m.jpg" }
+      ]
+    },
+    {
+      "type": "RENT",
+      "name": "Pineview Cottage",
+"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facere fuga aspernatur delectus amet commodi, rerum error ipsam. Eum, dolorum provident. Rem consequatur iste obcaecati omnis, hic dolor, id aspernatur blanditiis quisquam provident velit officiis temporibus.",
+      "street": "789 Skyline Ave, Koramangala",
+      "city": "Bangalore",
+      "state": "KA",
+      "zipcode": "560034",
+      "price": 5000,
+      "bhk": "THREE_BHK",
+      "area": 2000,
+      "parking": "YES",
+      "preferredTenants": "FAMILY",
+      "propertyType": "APARTMENT",
+      "isFeatured": true,
+      "availableFrom": "2024-07-15T00:00:00.000Z",
+      "isSold": false,
+      "owner": {
+        "username": "Emily Davis",
+        "email": "emily@email.com"
+    },
+      "images": [
+        { "url": "https://res.cloudinary.com/doxf2jmbg/image/upload/v1721459962/easyHomes/property-5_vzoapn.jpg" }, { "url": "https://res.cloudinary.com/doxf2jmbg/image/upload/v1721459961/easyHomes/property-2_xkw6c9.jpg" }
+      ]
+    },
+    {
+      "type": "SALE",
+      "name": "Green Meadows",
+"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facere fuga aspernatur delectus amet commodi, rerum error ipsam. Eum, dolorum provident. Rem consequatur iste obcaecati omnis, hic dolor, id aspernatur blanditiis quisquam provident velit officiis temporibus.",
+      "street": "101 Garden St, Jayanagar",
+      "city": "Bangalore",
+      "state": "KA",
+      "zipcode": "560041",
+      "price": 30000000,
+      "bhk": "FOUR_BHK",
+      "area": 4500,
+      "parking": "YES",
+      "preferredTenants": "FAMILY",
+      "propertyType": "INDEPENDENT",
+      "availableFrom": "2024-09-01T00:00:00.000Z",
+      "isSold": false,
+      "owner": {
+        "username": "John Doe",
+        "email": "john@email.com"
+    },
+      "images": [
+        { "url": "https://res.cloudinary.com/doxf2jmbg/image/upload/v1721467554/easyHomes/property-4_uzfapf.jpg" },{ "url": "https://res.cloudinary.com/doxf2jmbg/image/upload/v1721459962/easyHomes/property-3_zvqcjz.jpg" }
+      ]
+    },
+    {
+      "type": "RENT",
+      "name": "Urban Nest",
+"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facere fuga aspernatur delectus amet commodi, rerum error ipsam. Eum, dolorum provident. Rem consequatur iste obcaecati omnis, hic dolor, id aspernatur blanditiis quisquam provident velit officiis temporibus.",
+      "street": "202 City Center, MG Road",
+      "city": "Bangalore",
+      "state": "KA",
+      "zipcode": "560001",
+      "price": 3500,
+      "bhk": "TWO_BHK",
+      "area": 1200,
+      "parking": "YES",
+      "preferredTenants": "BACHELORS",
+      "propertyType": "APARTMENT",
+      "availableFrom": "2024-07-20T00:00:00.000Z",
+      "isSold": false,
+      "owner":{
+        "username": "Jane Smith",
+        "email": "jane@email.com"
+    },
+      "images": [
+        { "url": "https://res.cloudinary.com/doxf2jmbg/image/upload/v1721459961/easyHomes/property-6_s7ufnj.jpg" },{ "url": "https://res.cloudinary.com/doxf2jmbg/image/upload/v1721459962/easyHomes/property-7_iqviih.jpg" }
+      ]
+    },
+    {
+      "type": "SALE",
+      "name": "Sunset Villa",
+"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facere fuga aspernatur delectus amet commodi, rerum error ipsam. Eum, dolorum provident. Rem consequatur iste obcaecati omnis, hic dolor, id aspernatur blanditiis quisquam provident velit officiis temporibus.",
+      "street": "303 Sunset Blvd, HSR Layout",
+      "city": "Bangalore",
+      "state": "KA",
+      "zipcode": "560102",
+      "price": 20000000,
+      "bhk": "THREE_BHK",
+      "area": 3000,
+      "parking": "YES",
+      "preferredTenants": "FAMILY",
+      "propertyType": "INDEPENDENT",
+      "availableFrom": "2024-08-15T00:00:00.000Z",
+      "isSold": false,
+      "owner":{
+        "username": "Emily Davis",
+        "email": "emily@email.com"
+    },
+      "images": [
+        { "url": "https://res.cloudinary.com/doxf2jmbg/image/upload/v1721459962/easyHomes/property-8_ua7e8m.jpg" },{ "url": "https://res.cloudinary.com/doxf2jmbg/image/upload/v1721467554/easyHomes/property-4_uzfapf.jpg" }
+      ]
+    },
+    {
+      "type": "RENT",
+      "name": "Skyline Heights",
+"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facere fuga aspernatur delectus amet commodi, rerum error ipsam. Eum, dolorum provident. Rem consequatur iste obcaecati omnis, hic dolor, id aspernatur blanditiis quisquam provident velit officiis temporibus.",
+      "street": "404 Heights Rd, Yelahanka",
+      "city": "Bangalore",
+      "state": "KA",
+      "zipcode": "560024",
+      "price": 4000,
+      "bhk": "THREE_BHK",
+      "area": 1500,
+      "parking": "YES",
+      "preferredTenants": "BACHELORS",
+      "propertyType": "APARTMENT",
+      "availableFrom": "2024-07-25T00:00:00.000Z",
+      "isSold": false,
+      "owner": {
+        "username": "John Doe",
+        "email": "john@email.com"
+    },
+      "images": [
+        { "url": "https://res.cloudinary.com/doxf2jmbg/image/upload/v1721459961/easyHomes/property-2_xkw6c9.jpg" }, { "url": "https://res.cloudinary.com/doxf2jmbg/image/upload/v1721467554/easyHomes/property-4_uzfapf.jpg" }
+      ]
+    },
+    {
+      "type": "SALE",
+      "name": "Riverside Cottage",
+"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facere fuga aspernatur delectus amet commodi, rerum error ipsam. Eum, dolorum provident. Rem consequatur iste obcaecati omnis, hic dolor, id aspernatur blanditiis quisquam provident velit officiis temporibus.",
+      "street": "505 River Rd, Banashankari",
+      "city": "Bangalore",
+      "state": "KA",
+      "zipcode": "560066",
+      "price": 15000000,
+      "bhk": "TWO_BHK",
+      "area": 1800,
+      "parking": "YES",
+      "preferredTenants": "FAMILY",
+      "propertyType": "INDEPENDENT",
+      "availableFrom": "2024-09-10T00:00:00.000Z",
+      "isSold": false,
+      "owner": {
+        "username": "Jane Smith",
+        "email": "jane@email.com"
+    },
+      "images": [
+        { "url": "https://res.cloudinary.com/doxf2jmbg/image/upload/v1721459962/easyHomes/property-3_zvqcjz.jpg" },{ "url": "https://res.cloudinary.com/doxf2jmbg/image/upload/v1721459962/easyHomes/property-1_cn7xgl.jpg" }
+      ]
+    }
+  ]
+  
